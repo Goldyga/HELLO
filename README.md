@@ -15,3 +15,10 @@ Hello my dear Guest, I created this welcome readme, in order to present somethin
    #### 2. miniapp (This is mini website aplications)
         
        * Mainly used: pure JS, JQuery, Ajax, API, GRUNT, GIT.
+       
+   ### Contact me
+       
+       * E-main: marcingo@toya.net.pl
+       * LinkedIn: 
+     [1]: http://slashdot.org
+    
