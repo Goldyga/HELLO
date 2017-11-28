@@ -20,7 +20,5 @@ I created this welcome readme, in order to present something in the shape of a m
        
    ### Contact me
        
-       * E-main: marcingo@toya.net.pl
-       * LinkedIn: 
-       * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used.
-    
+   * E-main: marcingo@toya.net.pl
+   * LinkedIn: [Marcin Gołdyga](http://www.dropwizard.io/1.0.2/docs/)
