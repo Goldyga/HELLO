@@ -9,14 +9,14 @@ I created this welcome readme, in order to present something in the shape of a m
    
    #### 1. website (This is website projects which I created)
    
-      * _PSD (Coded by myself & inspired by PSD template)
-      * _COMPONENT (Examples website components)
+   * _PSD (Coded by myself & inspired by PSD template)
+   * _COMPONENT (Examples website components)
       
-      * Mainly used: HTML, SASS, CSS, RWD, GIT, GRUNT, Bootstrap, Photoshop.
+   * Mainly used: HTML, SASS, CSS, RWD, GIT, GRUNT, Bootstrap, Photoshop.
    
    #### 2. miniapp (This is mini website aplications)
         
-       * Mainly used: pure JS, JQuery, Ajax, API, GRUNT, GIT.
+   * Mainly used: pure JS, JQuery, Ajax, API, GRUNT, GIT.
        
    ### Contact me
        
