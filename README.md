@@ -22,5 +22,5 @@ I created this welcome readme, in order to present something in the shape of a m
        
        * E-main: marcingo@toya.net.pl
        * LinkedIn: 
-     [1]: http://slashdot.org
+       * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used.
     
