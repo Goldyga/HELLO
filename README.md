@@ -7,7 +7,7 @@
    * _PSD (Coded by myself & inspired by PSD template)
    * _COMPONENT (Examples website components)
    
-   * Mainly used: HTML, SASS, CSS, RWD, GIT, GRUNT, Bootstrap, Photoshop.
+   * Mainly used: HTML, SASS, CSS, RWD, GIT, GRUNT, BEM, Bootstrap, Photoshop.
    #### 2. miniapp- (This is mini website aplications)        
    * Mainly used: pure JS, JQuery, Ajax, API, GRUNT, GIT.
    ## I think that currently my Best Projects :)
