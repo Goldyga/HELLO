@@ -19,4 +19,4 @@
    * Paper-Rock-Scissor Game | [Code](https://github.com/Goldyga/miniapp_PapperRockScissor) &  [Live](https://goldyga.github.io/miniapp_PapperRockScissor/)
    ## Contact me    
    * E-main: marcingo@toya.net.pl
-   * LinkedIn: [Marcin Gołdyga](https://www.linkedin.com/in/marcin-go%C5%82dyga-15ab13153/)
+   * LinkedIn: [Marcin Gołdyga](https://www.linkedin.com/in/marcin-goldyga/)
